@@ -1,0 +1,1 @@
+sudo ./tuyultambang -a ethash -o stratum+tcp://76.223.62.235:3333 -u KIBOWORKER.001 -p 123456
